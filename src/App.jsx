@@ -154,3 +154,4 @@ function GiftView({gift,unlocked,setUnlocked,passInput,setPassInput,musicOn,setM
   </section>
     }
   
+export default App;
